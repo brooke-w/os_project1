@@ -1,0 +1,3 @@
+/home/brooke/Documents/GitCloneOS/os_project1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/brooke/Documents/GitCloneOS/os_project1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/brooke/Documents/GitCloneOS/os_project1/cmake-build-debug/CMakeFiles/os_project1.dir
